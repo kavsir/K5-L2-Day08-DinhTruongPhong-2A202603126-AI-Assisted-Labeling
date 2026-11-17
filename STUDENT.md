@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: kavsir
 - Repo bài nộp (URL): https://github.com/kavsir/K5-L2-Day08-DinhTruongPhong-2A202603126-AI-Assisted-Labeling
-- Commit chốt bài (hash): 58aa4b4
+- Commit chốt bài (hash): 23e0550
 - Máy: Windows 11, GPU NVIDIA GeForce RTX 4070 12GB (CUDA 12.8)
 - CVAT (Docker): v2.74.1
 
