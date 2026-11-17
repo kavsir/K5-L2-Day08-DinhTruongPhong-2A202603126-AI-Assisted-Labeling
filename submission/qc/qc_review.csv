@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,Đinh Trường Phong,Kiểm tra kỹ các box xe và người đều khớp
+img_006.jpg,,bo_sot,Đinh Trường Phong,Sót 1 đối tượng ở mép ảnh do bỏ qua bước quét ảnh trước (bẫy missing lọt)
+img_014.jpg,,sai_vi_tri_kich_thuoc,Đinh Trường Phong,Viền box xe bị lỏng/rộng chưa kéo ôm sát (bẫy loose lọt)
+img_031.jpg,,khong,Đinh Trường Phong,Các box xe và người được gán chính xác
+img_035.jpg,,khong,Đinh Trường Phong,Đạt yêu cầu sau khi đã loại bỏ box thừa
